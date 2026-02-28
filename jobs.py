@@ -83,4 +83,5 @@ def my_jobs():
 
 
 if __name__ == '__main__':
+    print("Running script...")
     my_jobs()
